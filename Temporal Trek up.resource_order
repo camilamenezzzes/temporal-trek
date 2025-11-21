@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"snd_menu","order":2,"path":"sounds/snd_menu/snd_menu.yy",},
+    {"name":"snd_music_fase","order":1,"path":"sounds/snd_music_fase/snd_music_fase.yy",},
+    {"name":"spr_alexia_Golpe","order":1,"path":"sprites/spr_alexia_Golpe/spr_alexia_Golpe.yy",},
+  ],
+}
